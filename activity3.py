@@ -1,0 +1,1 @@
+age = date.today()-date(1982,3,25)

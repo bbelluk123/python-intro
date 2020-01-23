@@ -1,0 +1,1 @@
+print("All around the World"[7].upper())
